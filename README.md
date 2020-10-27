@@ -2,9 +2,12 @@
 
 - 💻 I'm interested in NLP, computer vision, data engineering and software development in general.
 - 🔭 I’m currently working as a Research Assistant with Dr. Beckett Sterner in diachronic context change of lexical semantics in epistemology
+- 🤔 I’m looking for help with interpretability in embedding creation
 
 
 - 📫 How to reach me: avtale@asu.edu
+
+![image](https://github.com/ankushtale/ankushtale/blob/master/dino.gif)
 
 <!--
 **ankushtale/ankushtale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
