@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: avtale@asu.edu
 
-![image](https://github.com/ankushtale/ankushtale/blob/master/dino.gif)
+![image](https://github.com/ankushtale/ankushtale/blob/main/dino.gif)
 
 <!--
 **ankushtale/ankushtale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
